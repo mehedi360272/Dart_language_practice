@@ -10,7 +10,7 @@ void main(){
   //List
   List myList = ['one', 'two', 'three', 'four'];
   //Map data type
-  Map<String, dynamic> myMap = {
+  Map myMap = {
     'name': 'Mehedi',
     'age': 25,
   };
