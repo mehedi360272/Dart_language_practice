@@ -6,9 +6,11 @@ void main(){
   var sum = a+b;
   var subtrac = a-b;
   var multiplication = a*b; 
+  var division = a~/b; // "~/" use for integer number
   print("Total $sum");
   print("Subtraction $subtrac");
   print("Multiplication $multiplication");
+  print("Division $division");
 
   //type test operator
   String name = 'Mehedi';
