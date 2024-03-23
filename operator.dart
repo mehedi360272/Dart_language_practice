@@ -21,4 +21,9 @@ void main(){
   var x = 10; 
   var res = x > 12 ? "value greater than 10":"value lesser than or equal to 10"; 
   print(res); 
+
+   var p = null; 
+   var q = 12; 
+   var result = p ?? q; 
+   print(result); 
 }
